@@ -1,24 +1,26 @@
-# rick-morty-game
+# Rick & Morty Game
 
-## Project setup
-```
+Para instalar este proyecto simplemente necesitas clonar el repositorio e instalar todas sus dependencias con el siguiente comando:
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+Puedes compilarlo para desarrollo y abrirlo en un servidor en vivo con el siguiente comando:
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+O también puedes compilarlo para producción de manera optimizada 😉
+
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
+Puedes aplicar el linter con el siguiente comando:
+```bash
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+¡Estoy abierto a aceptar pull requests para mejorar este proyecto! 😈.
